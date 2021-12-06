@@ -1,25 +1,25 @@
 import React from "react"
 import { Container, Row, Col, Image } from "react-bootstrap"
 import Social from "./Social"
-import profileImage from "../../images/avatar.jpg"
+import profileImage from "../../images/perfil.png"
 import "./Profile.scss"
 
 const data = [
   {
     title: "Edad:",
-    info: "27 años",
+    info: "28 años",
   },
   {
     title: "Dirección:",
-    info: "46500, Valencia, Calle invetada, 4",
+    info: "Ricardo Flores Magón 105, Izcalli Chamapa, Naucalpan, EdoMéx. Méx.",
   },
   {
     title: "E-Mail:",
-    info: "xAgustin93@gmail.com",
+    info: "gustavovazco@gmail.com",
   },
   {
     title: "Telefono:",
-    info: "+34 666 777 888",
+    info: "+51 55 8185-3675",
   },
 ]
 
@@ -35,8 +35,8 @@ export default function Profile() {
           </Col>
           <Col xs={12} md={8} className="info__data">
             <span>¡HOLA!</span>
-            <p>Agustín Navarro Galdon</p>
-            <p>Frontend Developer</p>
+            <p>Gustavo Vázquez Correa</p>
+            <p>Front & JamStack Developer</p>
             <hr />
             <div className="more-info">
               {data.map((item, index) => (

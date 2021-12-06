@@ -7,6 +7,8 @@ import {
   fontendSkillsColors,
   backendSkills,
   backendSkillsColors,
+  cmsSkills,
+  cmsSkillsColors,
   soSkills,
   soSkillsColors,
 } from "../utils/skills"
@@ -23,6 +25,10 @@ export default function Index() {
         <div className="skills__block">
           <h2>Backend</h2>
           <ListSkills skills={backendSkills} colors={backendSkillsColors} />
+        </div>
+        <div className="skills__block">
+          <h2>CMS</h2>
+          <ListSkills skills={cmsSkills} colors={cmsSkillsColors} />
         </div>
         <div className="skills__block">
           <h2>Sistemas Operativos</h2>
