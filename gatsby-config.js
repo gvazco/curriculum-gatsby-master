@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Gustavo Vazco | Front & Jamstack Developer`,
+    description: `Me especializo en diseño y desarrollo de experiencias e interfaces digitales.`,
+    author: `@gustavovazco`,
   },
   plugins: [
     `gatsby-plugin-sass`,
@@ -22,10 +22,8 @@ module.exports = {
         name: `gatsby-starter-default`,
         short_name: `starter`,
         start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/avatar.jpg`, // This path is relative to the root of the site.
+        icon: `src/images/perfil.png`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-offline`,

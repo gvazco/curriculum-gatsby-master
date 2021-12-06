@@ -5,19 +5,11 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby JS: De cero a experto
+  Portafolio en Gatsby JS
 </h1>
 
-_Curso en Udemy donde te enseño paso a paso a desarollar aplicaciones con Gatsby._
-
-**Curso:** https://courses.agustinnavarrogaldon.com/gatsby
-
-**Demo:**
-
-## Comenzando 🚀
-
-### Que veremos en el curso
+_Perfil Profesional y CV._
 
 ---
 
-⌨️ con ❤️ por [xAgustin93](https://github.com/xAgustin93) 😊
+⌨️ con ❤️ por [gustavovazco](https://github.com/gvazco) 😊
